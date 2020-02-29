@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-md-7">
+        <div class="cards-wrapper">
+            <h5 class="card-header">Sizin İçin Seçtiklerimiz</h5>
+            <ul id="haberler1" class="cards-list "></ul>
+
+        </div>
+        <br />
+    </div>
+    <div class="col-md-5">
+
+        <br />
+        <div>
+            @Html.Partial("_WeatherIst")
+            @Html.Partial("_WeatherAnk")
+        </div>
+        
+        <div class="cache_alert">
+            Bu alan Cache katmanını kontrol etmek amacıyla konmuştur(10sn)
+            <p><i class="fas fa-history"></i> @DateTime.Now</p>
+        </div>
+
+    </div>
+
+</div>
+
+

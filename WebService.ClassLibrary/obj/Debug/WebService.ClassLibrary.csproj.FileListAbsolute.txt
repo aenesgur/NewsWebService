@@ -1,0 +1,18 @@
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\WebService.ClassLibrary\bin\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\WebService.ClassLibrary\bin\Debug\WebService.ClassLibrary.pdb
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.pdb
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\WebService.ClassLibrary\bin\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\WebService.ClassLibrary\bin\Debug\WebService.ClassLibrary.pdb
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.pdb
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.ClassLibrary\bin\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.ClassLibrary\bin\Debug\WebService.ClassLibrary.pdb
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.ClassLibrary\obj\Debug\WebService.ClassLibrary.pdb

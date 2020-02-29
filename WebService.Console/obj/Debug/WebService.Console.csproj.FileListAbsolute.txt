@@ -1,0 +1,60 @@
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\obj\Debug\WebService.Console.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\obj\Debug\WebService.Console.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\obj\Debug\WebService.Console.csproj.CopyComplete
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\bin\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\console\Test\ConsoleApp1\ConsoleApp1\bin\Debug\WebService.ClassLibrary.pdb
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\bin\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\bin\Debug\WebService.ClassLibrary.pdb
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\obj\Debug\WebService.Console.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\obj\Debug\WebService.Console.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\obj\Debug\WebService.Console.csproj.CopyComplete
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\Online News Project\News_Web Services\WebServices\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\bin\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\bin\Debug\WebService.ClassLibrary.pdb
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\obj\Debug\WebService.Console.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\obj\Debug\WebService.Console.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\obj\Debug\WebService.Console.csproj.CopyComplete
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\Resources& Tests\Projects\WebServices\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\bin\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\bin\Debug\WebService.ClassLibrary.pdb
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\obj\Debug\WebService.Console.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\obj\Debug\WebService.Console.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\obj\Debug\WebService.Console.csproj.CopyComplete
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\Resources And Tests\Projects\WebServices\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\bin\Debug\ConsoleApp1.exe.config
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\bin\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\bin\Debug\ConsoleApp1.pdb
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\bin\Debug\WebService.ClassLibrary.dll
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\bin\Debug\WebService.ClassLibrary.pdb
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\obj\Debug\WebService.Console.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\obj\Debug\WebService.Console.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\obj\Debug\WebService.Console.csproj.CopyComplete
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\obj\Debug\ConsoleApp1.exe
+C:\Users\asus\Desktop\NewsWebSite-WebService-master\WebService.Console\obj\Debug\ConsoleApp1.pdb

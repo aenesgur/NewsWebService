@@ -1,0 +1,44 @@
+﻿@using WebService.ClassLibrary
+@model List<Entities>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-md-9">
+        <h1 style="font-family:auto">Arama Sonuçları</h1>
+        @if (Model != null && Model.Any())
+        {
+
+            foreach (var item in Model)
+            {
+                <figure class="snip1529" style="height:200px;max-width:20%;">
+
+                    <img src="@item.Image" alt="pr-sample13" style="height:100%" />
+                    <div class="date">
+                        <span class="day">@item.CreatingDate.Day</span>
+                        <span class="month">@item.CreatingDate.ToString("MMMM")</span>
+                    </div>
+                    <figcaption>
+                        <h3 style="font-size:15px">@item.Title</h3>
+                        <p style="font-size:13px">@item.Spot</p>
+                    </figcaption>
+                    <div class="hover"><i class="ion-android-open"></i></div>
+                    <a href="@item.Link"></a>
+
+
+                </figure>
+            }
+        }
+
+
+        else
+        {
+                <div class="alert alert-danger" role="alert">
+                    Arama Sonuçlarınıza Göre Bir Kayıt Bulunamadı
+                </div>            
+        }
+    </div>
+    <div class="col-md-3"></div>
+</div>
+

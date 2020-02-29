@@ -1,0 +1,14 @@
+﻿
+@using (Html.BeginForm("Index","Search",FormMethod.Get))
+
+{
+    <div class="input-group">
+        @Html.TextBox("query", null, new { @class = "form-control" })
+        <span class="input-group-btn" >
+            <button class="btn btn-primary" type="submit">
+                <span><i class="fas fa-search"></i></span>
+            </button>
+        </span>
+    </div>
+
+}
