@@ -16,7 +16,6 @@ namespace WebService.AspNet.Mvc.Controllers
         [OutputCache(Duration = 10)]
         public ActionResult Index()
         {
-
             return View();
         }
 

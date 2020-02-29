@@ -1,4 +1,5 @@
 
+var host = "http://localhost:64069/";
 
 function onLoadIcin() {
     haberGetir();
@@ -20,7 +21,8 @@ const mahmureDiv = document.getElementById("mahureHaber");
 const emlakDiv = document.getElementById("emlakHaber");
 
 function haberGetir() {
-    fetch('http://localhost:64069/api/Data/GetHome')
+    var url = host+'api/Data/GetHome';
+    fetch(url)
         .then(response => response.json())
         .then(data => {
             //console.log(data);
@@ -42,7 +44,8 @@ function haberGetir() {
 }
 
 function bigparaGetir() {
-    fetch('http://localhost:64069/api/Data/GetBigPara')
+    var url = host+'api/Data/GetBigPara';
+    fetch(url)
         .then(response => response.json())
         .then(data => {
             //console.log(data);
@@ -61,7 +64,8 @@ function bigparaGetir() {
 }
 
 function mahmureGetir() {
-    fetch('http://localhost:64069/api/Data/GetMahmure')
+    var url = host+'api/Data/GetMahmure';
+    fetch(url)
         .then(response => response.json())
         .then(data => {
             //console.log(data);
@@ -84,7 +88,8 @@ function mahmureGetir() {
 }
 
 function emlakGetir() {
-    fetch('http://localhost:64069/api/Data/GetEmlak')
+    var url = host+'api/Data/GetEmlak';
+    fetch(url)
         .then(response => response.json())
         .then(data => {
             //console.log(data);
@@ -115,8 +120,8 @@ function myFunction() {
 }
 
 function currencyGetir() {
-
-    fetch('http://www.apilayer.net/api/live?access_key=abefbc2fbe9e74c962d10d0c549c7b63')
+    var url = 'http://www.apilayer.net/api/live?access_key=abefbc2fbe9e74c962d10d0c549c7b63'
+    fetch(url)
         .then(response => response.json())
         .then(data => {
             currencyDiv.innerHTML +=
